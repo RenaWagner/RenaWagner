@@ -4,8 +4,12 @@
 
 - :woman_technologist: Currently a student at Codaisseur (starting in Feb 2021)
 - :round_pushpin: Amsterdam, Netherlands
-- :inbox_tray: How to reach me: rena.suzuki.wagner@gmail.com
+- :inbox_tray: How to reach me: rena.suzuki.wagner@gmail.com or you can find me on [![LinkedIn][1.1]][1].
 
-Language and Tools:
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1]: https://www.linkedin.com/in/rena-suzuki-wagner/
 
-Most recent projects:
+### Language and Tools:
+
+
+### Most recent projects:
