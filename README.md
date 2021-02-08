@@ -1,4 +1,4 @@
-## Hey, I'm Rena Wagner 👋
+## Hey, I'm Rena 👋
 
 ### A passionate junior developer from Japan :jp: , living in the Netherlands:netherlands: !
 
