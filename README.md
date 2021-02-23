@@ -2,7 +2,7 @@
 
 ### A passionate junior developer from Japan :jp: , living in the Netherlands:netherlands: !
 
-- :woman_technologist: Currently a student at Codaisseur (starting in Feb 2021)
+- :woman_technologist: Currently a student at Codaisseur (Feb 2021 - Apr 2021)
 - :round_pushpin: Amsterdam, Netherlands
 - :inbox_tray: How to reach me: rena.suzuki.wagner@gmail.com or you can find me on [![LinkedIn][1.1]][1].
 
