@@ -10,6 +10,6 @@
 [1]: https://www.linkedin.com/in/rena-suzuki-wagner/
 
 ### Language and Tools:
-[![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+[!TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg  | width=100)
 
 ### Most recent projects:
