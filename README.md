@@ -6,7 +6,7 @@
 - :round_pushpin: Amsterdam, Netherlands
 - :inbox_tray: How to reach me: rena.suzuki.wagner@gmail.com or you can find me on [![LinkedIn][1.1]][1].
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg
 [1]: https://www.linkedin.com/in/rena-suzuki-wagner/
 
 ### Language and Tools:
@@ -18,7 +18,5 @@
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-
 
 ### Most recent projects:
