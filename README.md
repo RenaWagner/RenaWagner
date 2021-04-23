@@ -29,3 +29,5 @@ I built an app called TENKEY where users can check matching recommendations on c
 You can check the live version [here](https://tenkey.netlify.app).
 
 I am currently working on a mobile app version of this with React Native.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenaWagner&theme=tokyonight)
