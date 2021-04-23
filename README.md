@@ -10,6 +10,7 @@
 <p>
  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" alt="Sequelize" height="40" style="vertical-align:top; margin:4px">
@@ -29,5 +30,3 @@ I built an app called TENKEY where users can check matching recommendations on c
 You can check the live version [here](https://tenkey.netlify.app).
 
 I am currently working on a mobile app version of this with React Native.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenaWagner&theme=tokyonight)
