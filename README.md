@@ -1,6 +1,6 @@
 ## Hey, I'm Rena 👋
 
-### A passionate Junior Full Stack Developer from Japan :jp: , living in the Netherlands:netherlands: !
+### A passionate Frontend Developer from Japan :jp: , living in the Netherlands:netherlands: !
 
 - :woman_technologist: Currently a student at Codaisseur (Feb 2021 - Apr 2021)
 - :round_pushpin: Amsterdam, Netherlands
