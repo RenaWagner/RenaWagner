@@ -2,7 +2,7 @@
 
 ### A passionate Frontend Developer from Japan :jp: , living in the Netherlands:netherlands: !
 
-- :woman_technologist: Frontend Developer at a digital agency in Amsterdam
+- :woman_technologist: Frontend Developer at Akker, a digital agency in Amsterdam
 - :round_pushpin: Amsterdam, Netherlands
 - :inbox_tray:  How to reach me: rena.suzuki.wagner@gmail.com or you can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rena-suzuki-wagner/)
 
