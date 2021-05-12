@@ -3,7 +3,6 @@
 ### A passionate Frontend Developer from Japan :jp: , living in the Netherlands:netherlands: !
 
 - :woman_technologist: Frontend Developer at Akker, a digital agency in Amsterdam
-- :round_pushpin: Amsterdam, Netherlands
 - :inbox_tray:  How to reach me: rena.suzuki.wagner@gmail.com or you can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rena-suzuki-wagner/)
 
 ## Language and Tools:
@@ -24,9 +23,3 @@
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## Most recent projects:
-
-I built an app called TENKEY where users can check matching recommendations on clothing outfits based on the weather condition. Users can also upload their style images so they can reference their own style in the future under the same weather conditions.
-You can check the live version [here](https://tenkey.netlify.app).
-
-I am currently working on a mobile app version of this with React Native.
