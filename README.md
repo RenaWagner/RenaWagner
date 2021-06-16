@@ -19,7 +19,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
- <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="tailwindcss" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwindcss" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-ui" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 </p>
