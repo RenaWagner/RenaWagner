@@ -3,6 +3,7 @@
 ### A passionate Frontend Developer from Japan :jp: , living in the Netherlands:netherlands: !
 
 - :woman_technologist: Frontend Developer at Akker, a digital agency in Amsterdam
+-	:memo: Currently self-learning Python
 - :inbox_tray:  How to reach me: rena.suzuki.wagner@gmail.com or you can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rena-suzuki-wagner/)
 - :speech_balloon: Speak English, Japanese and een beetje Nederlands
 
@@ -16,6 +17,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
