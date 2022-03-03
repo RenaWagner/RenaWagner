@@ -3,7 +3,6 @@
 ### A passionate Frontend Developer from Japan :jp: , living in the Netherlands:netherlands: !
 
 - :woman_technologist: Frontend Developer at Akker, a digital agency in Amsterdam
--	:memo: Currently self-learning Python & Jupyter notebook
 - :inbox_tray:  How to reach me: rena.suzuki.wagner@gmail.com or you can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rena-suzuki-wagner/)
 - :speech_balloon: Speak English, Japanese and een beetje Nederlands
 
