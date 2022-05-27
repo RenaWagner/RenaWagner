@@ -6,8 +6,6 @@
 - :inbox_tray:  How to reach me: rena.suzuki.wagner@gmail.com or you can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rena-suzuki-wagner/)
 - :speech_balloon: Speak English, Japanese and een beetje Nederlands
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renawagner&layout=compact)](https://github.com/renawagner/github-readme-stats)
-
 ## Language and Tools:
 <p>
  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
